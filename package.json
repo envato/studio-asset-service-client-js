@@ -1,0 +1,12 @@
+{
+  "name": "studio-asset-service-client-js",
+  "version": "1.0.0",
+  "main": "./public/index.js",
+  "scripts": {},
+  "author": "Shervin Aflatooni",
+  "devDependencies": {},
+  "dependencies": {
+    "object-assign": "^2.0.0",
+    "superagent": "^0.21.0"
+  }
+}
