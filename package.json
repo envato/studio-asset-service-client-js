@@ -4,6 +4,7 @@
   "main": "./lib/index",
   "scripts": {},
   "author": "Shervin Aflatooni",
+  "private": true,
   "directories": {
     "lib": "./lib"
   },
