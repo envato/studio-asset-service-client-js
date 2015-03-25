@@ -1,9 +1,16 @@
 {
   "name": "studio-asset-service-client-js",
   "version": "1.0.0",
-  "main": "./public/index.js",
+  "main": "./lib/index",
   "scripts": {},
   "author": "Shervin Aflatooni",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/envato/studio-asset-service-client-js.git"
+  },
   "devDependencies": {},
   "dependencies": {
     "object-assign": "^2.0.0",
