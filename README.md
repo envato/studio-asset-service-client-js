@@ -25,3 +25,9 @@ client.getAssets(['uuid-3453-24245-3434', 'uuid-3453-24245-3333'], function(err,
   console.log(assets);
 });
 ```
+
+## Release:
+
+```bash
+./scripts/release
+```
