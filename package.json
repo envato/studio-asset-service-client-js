@@ -1,6 +1,6 @@
 {
   "name": "studio-asset-service-client-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "./index",
   "scripts": {},
   "author": "Shervin Aflatooni",
